@@ -17,3 +17,6 @@
 # Link to Paper
 | link |
 |https://montclair0-my.sharepoint.com/:w:/g/personal/dreisbachd1_montclair_edu/ERsltIVUNtNLpP2In0p8Iq8BRZaP8O9r3p81-5FYhbzyXQ?e=6Rc0yt |
+# Link to Power Point
+| link |
+| https://montclair0-my.sharepoint.com/:p:/g/personal/dreisbachd1_montclair_edu/ET5UIYWL2ZxFgrqHYCVH6V8BjX_cEXG8eQhEdyby3mIhAg?e=YlOoNy |

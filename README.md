@@ -9,3 +9,8 @@
 | Topic | year | details | link |  
 |-------|------|---------|------|
 | AI In Crime  | 2020 | Discussing AI and cybersecurity | https://www.cyberdefensemagazine.com/the-role-of-ai-in-cybersecurity/ |
+
+### Subtopic 3
+| Topic | year | details | link |
+|-------|------|---------|------|
+| AI in Art | 2020 | Discussing AI and creativity projects like video and photo |

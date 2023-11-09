@@ -2,7 +2,7 @@
 ## Artificial Intelligence AI
 ### Subtopic 1
 | Topic | Year | details | link |
-|-------|------|---------|------|
+|-------|------|---------|------|-
 | AI In Schools | 2019 | Discussing AI and schooling | 
 
 

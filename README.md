@@ -7,5 +7,5 @@
 
 ### Subtopic 2
 | Topic | year | details | link |  
-|-------|------|---------|------|-----------------------|
-| AI In Crime  | 2020 | Discussing AI and cybersecurity | https://www.cyberdefensemagazine.com/the-role-of-ai-in-cybersecurity/ |
+|-------|------|---------|------|
+| AI In Crime  | 2020 | Discussing AI and cybersecurity | 

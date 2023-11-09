@@ -5,7 +5,7 @@
 |-------|------|---------|------|
 | AI In Schools | 2019 | Discussing AI and schooling | https://www.researchgate.net/publication/332180327_Artificial_Intelligence_in_Education_Promise_and_Implications_for_Teaching_and_Learning |
 
-
-| Option | Description |
-|--------|-------------|
-|Data    | path        |
+### Subtopic 2
+| Topic | year | details | link | https://www.cyberdefensemagazine.com/the-role-of-ai-in-cybersecurity/ |
+|-------|------|---------|------|-----------------------|
+| AI In Crime  | 2020 | Discussing AI and cybersecurity |  |

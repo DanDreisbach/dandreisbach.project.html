@@ -15,4 +15,5 @@
 |-------|------|---------|------|
 | AI in Art | 2020 | Discussing AI and creativity projects like video and photo | https://www.researchgate.net/publication/357587491_AI_Video_Editing_a_Survey |
 # Link to Paper
-[https://montclair0-my.sharepoint.com/:w:/g/personal/dreisbachd1_montclair_edu/ERsltIVUNtNLpP2In0p8Iq8BRZaP8O9r3p81-5FYhbzyXQ?e=lIGfJY]
+| link |
+|https://montclair0-my.sharepoint.com/:w:/g/personal/dreisbachd1_montclair_edu/ERsltIVUNtNLpP2In0p8Iq8BRZaP8O9r3p81-5FYhbzyXQ?e=6Rc0yt |

@@ -20,3 +20,5 @@
 # Link to Power Point
 | link |
 | https://montclair0-my.sharepoint.com/:p:/g/personal/dreisbachd1_montclair_edu/ET5UIYWL2ZxFgrqHYCVH6V8BjX_cEXG8eQhEdyby3mIhAg?e=YlOoNy |
+# Abstract
+This website is a place where you can find all of my projects in one neat and organized website. I could not find a way to have the subtopics be on their own individual pages but I think this way is more organized and easier to navigate because all you have to do is scroll and sort through all of the links.

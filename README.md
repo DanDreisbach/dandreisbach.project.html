@@ -13,4 +13,4 @@
 ### Subtopic 3
 | Topic | year | details | link |
 |-------|------|---------|------|
-| AI in Art | 2020 | Discussing AI and creativity projects like video and photo |
+| AI in Art | 2020 | Discussing AI and creativity projects like video and photo | https://www.researchgate.net/publication/357587491_AI_Video_Editing_a_Survey |
